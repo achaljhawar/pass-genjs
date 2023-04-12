@@ -1,5 +1,5 @@
 {
-  "name": "random-password-generator",
+  "name": "pass-genjs",
   "version": "1.0.0",
   "description": "A npm package that generates random passwords with specified length and complexity.",
   "main": "index.js",
@@ -15,10 +15,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/achaljhawar/random-password-generator.git"
+    "url": "git+https://github.com/achaljhawar/pass-genjs.git"
   },
   "bugs": {
-    "url": "https://github.com/achaljhawar/random-password-generator/issues"
+    "url": "https://github.com/achaljhawar/pass-genjs/issues"
   },
-  "homepage": "https://github.com/achaljhawar/random-password-generator#readme"
+  "homepage": "https://github.com/achaljhawar/pass-genjs#readme"
 }
