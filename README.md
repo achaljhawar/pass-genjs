@@ -8,7 +8,7 @@ A simple npm package that generates a random password with a specified length an
 To install the package, simply run the following command:
 
 ```
-npm install random-password-generator
+npm install @achaljhawar/password-generator
 ```
 <h2>Usage</h2>
 
