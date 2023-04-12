@@ -1,7 +1,7 @@
 <h1>random-password-generator</h1>
 
-A simple npm package that generates a random password with a specified length and complexity.h2>
-<\br>
+A simple npm package that generates a random password with a specified length and complexity.
+
 
 <h2>Installation </h2>
 
