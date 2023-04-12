@@ -1,4 +1,4 @@
-<h1>random-password-generator</h1>
+<h1>password-generator</h1>
 
 A simple npm package that generates a random password with a specified length and complexity.
 
@@ -15,7 +15,7 @@ npm install random-password-generator
 Just use the 'generatePassword' method, with the appropriate password length and complexity, to begin using the package.
 
 ```js
-const generatePassword = require('random-password-generator');
+const generatePassword = require('@achaljhawar/password-generator');
 
 const password = generatePassword(10, true, true); // Generates a password with a length of 10 that contains lowercase and uppercase characters, numbers, and special characters.
 
@@ -35,7 +35,7 @@ The `generatePassword` function takes in three optional parameters:
 Here are some examples of how you can use the `generatePassword` function:
 
 ```js
-const generatePassword = require('random-password-generator');
+const generatePassword = require('@achaljhawar/password-generator');
 
 const password1 = generatePassword(); // Generates a password with the default options (length of 8 that contains lowercase and uppercase characters, numbers, and special characters).
 
